@@ -1,0 +1,144 @@
+div.text{
+    font-family: 'Inika';
+    font-size: smaller;
+    text-align: center;
+}
+
+body{
+    background-color: #eccecd;
+}
+
+div.nome1{
+    color: white;
+    background-color: #886274;
+    font-family: 'inika';
+    font-size: larger;
+    text-align: center;
+}
+
+div.descrizione{
+    color: black;
+    font-family: 'inika';
+    text-align: left;
+}
+
+div.camilo1{
+    float: left;
+    text-align: center;
+    margin-left: 10%;
+}
+
+div.camilo2{
+    float: left;
+    text-align: center;
+}
+
+div.camilo3{
+    float: left;
+    text-align: center;
+}
+
+div.camilo4{
+    float: left;
+    text-align: center;
+}
+
+div.footer{
+    text-align: center;
+    margin-top: 32%;
+    font-family: 'inika';
+    background-color: #90748d;
+}
+
+div.tim1{
+    float: left;
+    text-align: center;
+    margin-left: 10%;
+}
+
+div.tim2{
+    float: left;
+    text-align: center;
+}
+
+div.tim3{
+    float: left;
+    text-align: center;
+}
+
+div.tim4{
+    float: left;
+    text-align: center;
+    margin-left: 5%;
+}
+
+div.tim5{
+    float: left;
+    text-align: center;
+}
+
+div.tim6{
+    float: left;
+    text-align: center;
+}
+
+div.linn1{
+    float: left;
+    text-align: center;
+    margin-left: 10%;
+}
+
+div.linn2{
+    float: left;
+    text-align: center;
+}
+
+div.linn3{
+    float: left;
+    text-align: center;
+}
+
+div.linn4{
+    float: left;
+    text-align: center;
+    margin-left: 5%;
+}
+
+div.linn5{
+    float: left;
+    text-align: center;
+}
+
+div.karl1{
+    float: left;
+    text-align: center;
+    margin-left: 10%;
+}
+
+div.karl2{
+    float: left;
+    text-align: center;
+}
+
+div.karl3{
+    float: left;
+    text-align: center;
+}
+
+div.boca1{
+    float: left;
+    text-align: center;
+    margin-left: 10%;
+}
+
+div.boca2{
+    float: left;
+    text-align: center;
+    margin-left: 15%;
+}
+
+div.boca3{
+    float: left;
+    text-align: center;
+    margin-left: 10%;
+}

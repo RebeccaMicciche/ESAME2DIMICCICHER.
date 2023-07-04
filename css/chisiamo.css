@@ -1,0 +1,37 @@
+div.text{
+    font-family: 'Inika';
+    font-size: smaller;
+    text-align: center;
+}
+
+body{
+    background-color: #eccecd;
+}
+
+div.footer{
+    text-align: center;
+    margin-top: 32%;
+    font-family: 'inika';
+    background-color: #90748d;
+}
+
+div.titolo{
+    color: white ;
+    background-color: #90748d;
+    font-family: 'inika';
+    text-align: center;
+    font-size: larger
+}
+
+div.informazioni{
+    text-align: left;
+    font-size: larger;
+    font-family: 'inika';
+}
+
+div.informazioni2{
+    text-align: left;
+    font-size: larger;
+    font-family: 'inika';
+    line-height: 200%;
+}
